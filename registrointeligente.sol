@@ -42,3 +42,4 @@ module.exports = {
     }
   }
 };
+truffle migrate --network <nombre_de_la_red>
