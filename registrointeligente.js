@@ -1,4 +1,4 @@
-pragma solidity ^0.8.0;
+truffle initpragma solidity ^0.8.0;
 
 contract RegistroInteligente {
     // Mapping para almacenar registros asociados a direcciones
